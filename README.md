@@ -3,7 +3,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Web+Developer;Building+Interactive+Web+Apps&size=22)
 
 💻 **Full-Stack Web Developer**  
-Specialized in building **responsive & interactive web applications** using HTML, CSS, JavaScript, React, Node.js & MongoDB.  
+🎓 Currently pursuing **BSc in CSE at Daffodil International University**  
 ✨ Passionate about **clean code**, modern **UI/UX**, and creating seamless digital experiences from frontend to backend.
 
 ---
@@ -27,3 +27,10 @@ Specialized in building **responsive & interactive web applications** using HTML
 
 ## 📈 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-abu-jahid&show_icons=true&theme=radical)
+
+---
+
+## 📫 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-AbuJahid-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin/)  
+[![Twitter](https://img.shields.io/badge/Twitter-@AbuJahid-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio-link.com)
