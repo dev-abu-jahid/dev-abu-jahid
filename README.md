@@ -38,7 +38,7 @@
 ---
 
 ## 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-AbuJahid-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin/)  
+[![LinkedIn](https://www.linkedin.com/in/devabujahid/)  
 [![Twitter](https://img.shields.io/badge/Twitter-@AbuJahid-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter/)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio-link.com)
 
