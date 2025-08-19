@@ -114,3 +114,64 @@
     <a class="button" href="#" aria-label="Read more about Project Title">Read More</a>
   </div>
 </article>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.card{display:grid;grid-template-columns:1fr;gap:1rem;padding:1rem;border:1px solid #e5e7eb;border-radius:1rem}
+.card__img{width:100%;height:200px;object-fit:cover;border-radius:.75rem}
+.card__body{display:grid;gap:.5rem}
+.button{display:inline-block;padding:.5rem 1rem;border-radius:.5rem;background:#111827;color:#fff;text-decoration:none}
+@media(min-width:768px){.card{grid-template-columns:240px 1fr;align-items:center}.card__img{height:100%}}
+
+
+
+
+
+
+
+
+export async function getJSON(url,{timeout=8000, headers={}}={}){
+  const controller = new AbortController();
+  const id = setTimeout(() => controller.abort(), timeout);
+  try{
+    const res = await fetch(url,{headers,signal:controller.signal});
+    if(!res.ok) throw new Error(`HTTP ${res.status}`);
+    return await res.json();
+  }finally{ clearTimeout(id); }
+}
+
+
+
+
+
+package com.example.demo;
+
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+public class HelloController {
+  @GetMapping("/api/hello")
+  public String hello(){
+    return "Hello, world!";
+  }
+}
+
+
+
+
+
+
+
