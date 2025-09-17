@@ -1,52 +1,64 @@
-# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+# 🚀 Full-Stack Web Developer  
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Web+Developer;Building+Interactive+Web+Apps;Crafting+Clean+Code&size=22&duration=3000&color=61DAFB&center=true)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Top+Rated+Full-Stack+Developer;Clean+Code+%7C+Modern+UI%2FUX;Your+Ideas+Into+Digital+Reality;&size=22&duration=3000&color=36BCF7&center=true)
 
-🎓 Currently pursuing **BSc in CSE at Daffodil International University**  
-💻 **Full-Stack Web Developer** | HTML, CSS, JS, React, Node.js & MongoDB  
-✨ Passionate about **clean code**, modern **UI/UX**, and building seamless digital experiences.
-
----
-
-## 🌟 Skills
-
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&animation=wave)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&animation=pulse)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&animation=blink)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&animation=spin)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&animation=pulse)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&animation=blink)
+🎓 **BSc in CSE** | Daffodil International University  
+💻 Specialized in **MERN Stack Development** (MongoDB, Express, React, Node.js)  
+🏆 Delivering **high-quality, production-ready projects** with clean code & pixel-perfect design.  
 
 ---
 
-## 🌟 Projects Showcase
+## 🏅 Top Rated Seller Badge  
 
-### Portfolio Website  
-![Portfolio Demo](https://user-images.githubusercontent.com/demo.gif)  
-- Responsive personal portfolio with project showcase and contact form.  
-- [Live Demo](#) | [Source Code](#)
-
-### Todo App  
-![Todo Demo](https://user-images.githubusercontent.com/demo.gif)  
-- Task management app with clean UI & CRUD functionality.  
-- [Live Demo](#) | [Source Code](#)
+<img src="https://img.shields.io/badge/Top%20Rated%20Developer-%F0%9F%8F%86-brightgreen?style=for-the-badge&logo=github&logoColor=white" />
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-abu-jahid&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-abu-jahid&layout=compact&theme=radical&hide_border=true)
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=dev-abu-jahid&theme=radical)
+## 💡 Why Choose Me?  
+✅ 2+ Years of Web Development Experience  
+✅ 100% Responsive & Modern UI/UX Design  
+✅ Clean, Scalable & Maintainable Code  
+✅ On-Time Delivery & Professional Communication  
 
 ---
 
-## 📫 Connect with me
+## ⚡ Tech Stack  
+
+![HTML](https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7E017?style=for-the-badge&logo=javascript&logoColor=black)  
+![React](https://img.shields.io/badge/React-00D8FF?style=for-the-badge&logo=react&logoColor=black)  
+![Node.js](https://img.shields.io/badge/Node.js-68A063?style=for-the-badge&logo=node.js&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)  
+
+---
+
+## 🌟 Featured Projects  
+
+### 🔹 **Portfolio Website**  
+✨ Responsive, modern & professional developer portfolio  
+🔗 [Live Demo](#) | 💻 [Source Code](#)  
+
+### 🔹 **Todo App**  
+✨ CRUD functionality with clean UI & smooth UX  
+🔗 [Live Demo](#) | 💻 [Source Code](#)  
+
+---
+
+## 📊 GitHub Stats  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-abu-jahid&show_icons=true&theme=tokyonight&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-abu-jahid&layout=compact&theme=tokyonight&hide_border=true)  
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=dev-abu-jahid&theme=tokyonight)  
+
+---
+
+## 📫 Let’s Work Together  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-AbuJahid-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin/)  
 [![Twitter](https://img.shields.io/badge/Twitter-@AbuJahid-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio-link.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio-link.com)  
 
 ---
 
-> “Turning ideas into interactive digital experiences.”
+> 🏆 *“Top Rated Developer – I don’t just build websites, I build trust.”*  
